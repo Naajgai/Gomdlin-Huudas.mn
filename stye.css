@@ -1,0 +1,19 @@
+h1 { position: relative;
+     left: 25vh;
+     top: 10vh;
+        font-size: 50px;
+     color: aliceblue;
+}
+
+p {
+    color:aliceblue;
+    font-size:40px ;
+    position: relative;
+    top: 30vh;
+    left: 10vh;
+}
+
+body {
+    background: url(/R.jpg) no-repeat fixed;
+    background-size: cover;
+}
